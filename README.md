@@ -3,6 +3,7 @@
 Organic chemist bridging synthesis and computational intelligence. Currently self-teaching Python and chemoinformatics to explore how machine learning and Large Language Models can transform chemical discovery and drug development.
 
 
+
 ### About & Focus Areas
 
 * 🎓 **Background:** Formally trained in Organic Chemistry, with a deep interest in synthetic methodologies and reaction mechanisms.
@@ -10,7 +11,7 @@ Organic chemist bridging synthesis and computational intelligence. Currently sel
 * 🤖 **AI & Chemistry:** Passionate about AI-accelerated discovery, predictive reaction modeling, retrosynthesis, and LLM applications in chemistry.
 * 🌿 **Sustainability:** Interested in leveraging data-driven workflows to foster sustainable and green chemical synthesis.
 
----
+
 
 ### Scientific & Technical Toolkit
 
@@ -18,7 +19,7 @@ Organic chemist bridging synthesis and computational intelligence. Currently sel
 * **Programming & Tools:** Python • Bash/Shell Scripting • Git & GitHub • Jupyter Notebooks
 * **Chemoinformatics (In Progress):** RDKit • Molecular Descriptors & Fingerprints • Reaction Data Analysis
 
----
+
 
 ### Connect with Me
 
