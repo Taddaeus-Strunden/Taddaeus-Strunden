@@ -1,6 +1,6 @@
-# Hi, I'm Taddaeus Strunden 👋
+# Hi, I'm Taddaeus Strunden
 
-Organic chemist bridging synthesis and computational intelligence. Currently self-teaching Python and chemoinformatics to explore how machine learning and Large Language Models (LLMs) can transform chemical discovery and drug development.
+Organic chemist bridging synthesis and computational intelligence. Currently self-teaching Python and chemoinformatics to explore how machine learning and Large Language Models can transform chemical discovery and drug development.
 
 ---
 
